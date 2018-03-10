@@ -1,0 +1,19 @@
+﻿<Properties StartupItem="Assembly-CSharp.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Unity.Instance.Unity Editor" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Script\plastic runner\GameRoot.cs">
+    <Files>
+      <File FileName="Assets\Script\plastic runner\PlayerControl.cs" Line="1" Column="1" />
+      <File FileName="Assets\Script\plastic runner\playerStats.cs" Line="1" Column="1" />
+      <File FileName="Assets\Script\plastic runner\GameRoot.cs" Line="1" Column="1" />
+      <File FileName="Assets\Script\plastic runner\Reset.cs" Line="1" Column="1" />
+      <File FileName="Assets\Script\DeathTry.cs" Line="1" Column="1" />
+      <File FileName="Assets\Script\StartScene.cs" Line="1" Column="1" />
+      <File FileName="Assets\Script\plastic runner\level-data.txt" Line="1" Column="1" />
+      <File FileName="Assets\Script\plastic runner\LevelControl.cs" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
