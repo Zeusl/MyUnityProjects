@@ -1,0 +1,37 @@
+﻿<Properties StartupItem="Assembly-CSharp.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Unity.Instance.Unity Editor" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\scripts\Hp.cs">
+    <Files>
+      <File FileName="Assets\scripts\BabyDust.cs" Line="1" Column="1" />
+      <File FileName="Assets\scripts\DoorMove.cs" Line="1" Column="1" />
+      <File FileName="Assets\scripts\Ending_restart.cs" Line="1" Column="1" />
+      <File FileName="Assets\scripts\Hp.cs" Line="18" Column="32" />
+      <File FileName="Assets\scripts\success_playerMovement.cs" Line="1" Column="1" />
+      <File FileName="Assets\scripts\starting_story.cs" Line="1" Column="1" />
+      <File FileName="Assets\scripts\back.cs" Line="1" Column="1" />
+      <File FileName="Assets\scripts\Timer.cs" Line="1" Column="1" />
+      <File FileName="Assets\scripts\starting_explain.cs" Line="1" Column="1" />
+      <File FileName="Assets\scripts\starting_start.cs" Line="1" Column="1" />
+      <File FileName="Assets\scripts\Random_MomDoor.cs" Line="1" Column="1" />
+      <File FileName="Assets\scripts\playerMovement.cs" Line="1" Column="1" />
+      <File FileName="Assets\scripts\mini_playerMove.cs" Line="1" Column="1" />
+      <File FileName="Assets\scripts\mini_playerExit.cs" Line="1" Column="1" />
+      <File FileName="Assets\scripts\mini_Hole.cs" Line="1" Column="1" />
+      <File FileName="Assets\scripts\mini_flipppingMom.cs" Line="1" Column="1" />
+      <File FileName="Assets\scripts\mini_flipping3Mom.cs" Line="1" Column="1" />
+      <File FileName="Assets\scripts\mini_flipping2Mom.cs" Line="1" Column="1" />
+      <File FileName="Assets\scripts\mini_fallingMom.cs" Line="1" Column="1" />
+      <File FileName="Assets\scripts\FollowingCamera.cs" Line="1" Column="1" />
+      <File FileName="Assets\scripts\Explain3.cs" Line="1" Column="1" />
+      <File FileName="Assets\scripts\Explain2.cs" Line="1" Column="1" />
+      <File FileName="Assets\scripts\Explain1.cs" Line="1" Column="1" />
+      <File FileName="Assets\scripts\TouchPad.cs" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore>
+      <Breakpoint file="C:\Users\HOME\Desktop\Final\Dust\Assets\scripts\starting_story.cs" line="17" column="1" />
+    </BreakpointStore>
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>

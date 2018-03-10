@@ -1,0 +1,43 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scene/StartingScene.unity
+    guid: a2289505fb193d14f82496f6e78b051e
+  - enabled: 1
+    path: Assets/Scene/ExplainScene.unity
+    guid: a204c4b1590ccde46a7492147f85b0c7
+  - enabled: 1
+    path: Assets/Scene/ExplainScene2.unity
+    guid: 0faeada7f8235d64ea79a73b4941f776
+  - enabled: 1
+    path: Assets/Scene/ExplainScene3.unity
+    guid: d2d71e19b922c74409985d9174ad7465
+  - enabled: 1
+    path: Assets/Scene/StoryScene.unity
+    guid: 587e23f42586cc0429863e1704e2d69e
+  - enabled: 1
+    path: Assets/Scene/MainScene.unity
+    guid: 5b8532e84d9c03f449a1477b5b9b9d26
+  - enabled: 1
+    path: Assets/Scene/MiniGameScene.unity
+    guid: cbe2987d009c9c3499c009f6b463bccc
+  - enabled: 1
+    path: Assets/Scene/MiniGameScene 1.unity
+    guid: 597aa6f325912cc4e83bfa8244ef1745
+  - enabled: 1
+    path: Assets/Scene/MiniGameScene 2.unity
+    guid: c2a9e7e8347c05249aba6f588babfe02
+  - enabled: 1
+    path: Assets/Scene/MiniGameScene 3.unity
+    guid: 97b9abd2473be56449defb1fbd99d4bf
+  - enabled: 1
+    path: Assets/Scene/SuccessScene.unity
+    guid: e6ed28e262149f6469ff7a38ebf87b6d
+  - enabled: 1
+    path: Assets/Scene/EndingScene.unity
+    guid: e25c9fa0a6a13c8478d42888a2958f98
